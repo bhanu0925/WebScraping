@@ -1,0 +1,475 @@
+,Brand,Price,Rating,Modelname,Auto,Load,Energyrating,WashingcapacityInKg,Washingmethod,MaximumspinspeedInRPM,In-builtheater,Color,Shade,Waterlevelselector
+0,SAMSUNG,14190.0,4.4,WA65A4002VS/TL,Fully,Top,3.0,6.5,Pulsator,680,No,Silver,Imperial Silver,No
+1,LG,15990.0,4.3,T65SKSF4Z,Fully,Top,5.0,6.5,3 Smart Motion,780,No,Silver,Middle Free Silver,Yes
+2,SAMSUNG,21990.0,4.4,WW60R20GLMA/TL,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,Yes
+3,ONIDA,12990.0,4.2,T70CGN,Fully,Top,5.0,7.0,Pulsator,750,No,Grey,Grey,Yes
+4,Whirlpool,12990.0,4.3,WM ROYAL 6.0 GENX GREY 5YMW,Fully,Top,5.0,6.0,Agipeller,740,No,Grey,Grey,No
+5,IFB,21990.0,4.3,Diva Aqua VX,Fully,Front,5.0,6.0,Tumble Wash,800,Yes,White,White,Yes
+6,MarQ By Flipkart,6990.0,4.3,MQSA60H5M,Semi,Top,5.0,6.0,Pulsator,1350,No,"White, Maroon","White, Maroon",Yes
+7,SAMSUNG,9690.0,4.4,WT725QPNDMPXTL 02,Semi,Top,4.975,7.2,Centre Jet Pulsator Wash,740,No,White,White,No
+8,Whirlpool,15240.0,4.3,WM Royal 7.0 GENX Grey 5YMW,Fully,Top,5.0,7.0,Agipeller,740,No,Grey,Grey,No
+9,LG,10490.0,4.4,P7020NGAY,Semi,Top,4.0,7.0,Normal Pulsator Wash,1350,No,"Grey, White",Dark Gray,No
+10,SAMSUNG,15990.0,4.3,WA65T4262GG/TL,Fully,Top,5.0,6.5,Pulsator,700,No,Grey,Light Grey,Yes
+11,IFB,16589.0,4.3,TL-REW Aqua 6.5 kg,Fully,Top,5.0,6.5,Pulsator,720,No,White,White,Yes
+12,Thomson,7099.0,4.2,SA96500,Semi,Top,5.0,6.5,Pulsator,1400,No,"White, Grey","White, Grey",No
+13,IFB,29489.0,4.3,Neo Diva BX 7 kg,Fully,Front,5.0,7.0,Tumble,1000,Yes,"Black, White",White,No
+14,Whirlpool,10740.0,4.4,ACE 7.5 SUPREME GREY DAZZLE,Semi,Top,5.0,7.5,Impeller,1400,No,Grey,Grey Dazzle,No
+15,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+16,LG,24490.0,4.4,FHM1006ADW,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,Yes
+17,SAMSUNG,17990.0,4.3,WA70T4262GS/TL,Fully,Top,5.0,7.0,Pulsator,750,No,Silver,Imperial Silver,Yes
+18,ONIDA,10990.0,4.2,T62CGN / CRYSTAL 62,Fully,Top,4.975,6.2,Pulsator Wash,700,No,Grey,Grey,Yes
+19,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+20,IFB,34590.0,4.4,Senator Plus VX,Fully,Front,5.0,8.0,Tumble,1200,Yes,White,White,No
+21,LG,13500.0,4.5,P8035SGMZ,Semi,Top,5.0,8.0,Pulsator,1350,No,"Grey, White",Dark Gray,Yes
+22,IFB,22599.0,4.3,Diva Plus BX,Fully,Front,5.0,6.0,Tumble,800,Yes,"Black, White",White,No
+23,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+24,ONIDA,11990.0,4.2,T65CGN,Fully,Top,5.0,6.5,Pulsator,750,No,Grey,Grey,Yes
+25,Whirlpool,10390.0,4.4,SUPERB ATOM 70S GREY DAZZLE (5YR),Semi,Top,5.0,7.0,Impellar Wash,1450,No,Grey,GREY DAZZLE,No
+26,Haier,14490.0,4.3,HWM70-FE,Fully,Top,5.0,7.0,Pulsator,800,No,"Brown, Grey",Grey,Yes
+27,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+28,IFB,23199.0,4.3,Diva Aqua SX,Fully,Front,5.0,6.0,Tumble Wash,800,Yes,Silver,Silver,No
+29,SAMSUNG,16490.0,4.4,WA70A4002GS/TL,Fully,Top,4.975,7.0,Pulsator,680,No,Silver,Imperial Silver,No
+30,BOSCH,27990.0,4.4,WAJ2006EIN,Fully,Front,5.0,7.0,Tumble,1000,Yes,White,White,No
+31,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+32,Whirlpool,16785.0,4.3,Whitemagic Elite Plus 6.5 Grey 10YMW,Fully,Top,5.0,6.5,Agipellar,740,Yes,Grey,Grey,No
+33,MarQ By Flipkart,7390.0,4.3,MQSA65H5B,Semi,Top,5.0,6.5,Pulsator,1350,No,"White, Blue","White, Blue",Yes
+34,Whirlpool,14240.0,4.3,WM ROYAL 6.5 GENX SATIN GREY 5YMW,Fully,Top,5.0,6.5,Agipeller,740,No,Grey,Satin Grey,No
+35,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+36,Whirlpool,15890.0,4.5,ACE XL10.5 Graphite Grey (5YR),Semi,Top,5.0,10.5,3D Turbo Impeller Wash,1400,No,Grey,Graphite Grey,No
+37,ONIDA,4969.0,4.3,Liliput,Washer,,4.975,6.5,Normal Pulsator Wash,780,No,Red,Lava Red,No
+38,Whirlpool,17290.0,4.3,WHITEMAGIC ELITE 7.5 GREY 10YMW,Fully,Top,5.0,7.5,Agipellar Wash,740,No,Grey,Grey,Yes
+39,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+40,LG,9990.0,4.4,P6510NBAY,Semi,Top,4.0,6.5,Pulsator,1350,No,"White, Blue",Dark Blue,No
+41,MarQ By Flipkart,8490.0,4.3,MQSA75H5M,Semi,Top,5.0,7.5,Pulsator,1400,No,"White, Maroon","White, Maroon",Yes
+42,LG,26990.0,4.4,FHM1065ZDL.ALSQEIL,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,Yes
+43,LG,41990.0,4.5,FHT1409ZWL,Fully,Front,5.0,9.0,Tumble,1400,Yes,Silver,Silver,No
+44,Whirlpool,15740.0,4.3,WM ROYAL PLUS 7.0 GREY 5YMW,Fully,Top,5.0,7.0,Agipellar,740,No,Grey,Grey,Yes
+45,Haier,12990.0,4.3,HWM65-FE,Fully,Top,5.0,6.5,Pulsator,800,No,"Brown, Grey",Grey,Yes
+46,Whirlpool,19990.0,4.2,SW Ultra 7.5 (SC) Grey 10YMW,Fully,Top,5.0,7.5,Agipeller,740,Yes,Grey,Grey,No
+47,BOSCH,16490.0,4.4,WOE654Y1IN,Fully,Top,5.0,6.5,Pulsator,680,No,Grey,Grey,No
+48,MarQ By Flipkart,19990.0,4.2,MQFL70D5S,Fully,Front,5.0,7.0,Tumble Wash,1400,Yes,Silver,Silver,Yes
+49,Sansui,9790.0,4.2,JSP90S-2022L,Semi,Top,5.0,9.0,Pulsator,1350,No,"White, Maroon","White, Burgundy",No
+50,MarQ By Flipkart,14490.0,4.3,MQFA80J5LG,Fully,Top,5.0,8.0,Pulsator,700,No,Grey,Light Grey,No
+51,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+52,SAMSUNG,23490.0,4.4,WW60R20GLSS/TL,Fully,Front,5.0,6.0,Pulsator,1000,Yes,Silver,DA Silver,No
+53,Whirlpool,13740.0,4.4,ACE 8.0 TRB DRY GREY DAZZLE (5YR),Semi,Top,5.0,8.0,Impeller,1400,No,Grey,Grey dazzle,No
+54,BOSCH,31490.0,4.4,WAJ2426AIN,Fully,Front,5.0,8.0,Tumble,1200,Yes,White,White,No
+55,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+56,Whirlpool,16990.0,4.5,ACE XL 10.5 Silver Grey Dazzle (10YR),Semi,Top,5.0,10.5,Impellar,1400,No,"Black, Grey",Silver Grey Dazzle,No
+57,IFB,36549.0,4.3,Senator Plus SX,Fully,Front,5.0,8.0,Tumble,1400,Yes,Silver,Silver,No
+58,Thomson,7490.0,4.2,SA97000,Semi,Top,4.975,7.0,Pulsator,1400,No,"White, Blue, Grey",Blue,No
+59,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+60,ONIDA,9790.0,4.2,T55CGN,Fully,Top,5.0,5.5,Pulsator,750,No,Grey,Grey,No
+61,Panasonic,16490.0,4.3,NA-F70LF1HRB,Fully,Top,5.0,7.0,Pulastor,680,No,Grey,Grey,No
+62,Thomson,24990.0,4.4,Q10 Ultra Series,Fully,Front,5.0,10.5,Tumble,1200,Yes,White,White,Yes
+63,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+64,ONIDA,9790.0,4.3,S80SBXG,Semi,Top,5.0,8.0,Pulsator,1450,No,Grey,Grey,No
+65,LG,13499.0,4.5,P8035SPMZ,Semi,Top,5.0,8.0,Pulsator,1350,No,"Purple, White",Purple,Yes
+66,IFB,18399.0,4.3,TL RSS 6.5 kg Aqua,Fully,Top,5.0,6.5,Pulsator,720,No,Grey,Light Grey,No
+67,LG,41990.0,4.5,FHT1409ZWL,Fully,Front,5.0,9.0,Tumble,1400,Yes,Silver,Silver,No
+68,IFB,22490.0,4.3,TL RGS 7.0 Kg Aqua,Fully,Top,5.0,7.0,Pulsator,720,No,Grey,Grey,No
+69,LG,18990.0,4.4,T65SNSF1Z,Fully,Top,5.0,6.5,Pulsator,780,No,Silver,Middle Free Silver,Yes
+70,Panasonic,8690.0,4.2,NA-W65E5ARB,Semi,Top,5.0,6.5,Pulsator,1350,No,"White, Blue",Blue,No
+71,LG,26990.0,4.4,FHM1065ZDL.ALSQEIL,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,Yes
+72,SAMSUNG,30990.0,4.4,WW80J4243MW/TL,Fully,Front,4.975,8.0,Eco Bubble Wash,1200,Yes,White,White,No
+73,IFB,18999.0,4.2,TL REWH 6.5 kg Aqua,Fully,Top,5.0,6.5,Pulsator,720,Yes,White,White,Yes
+74,Godrej,12490.0,4.2,WT EON 620 A Gp Gr,Fully,Top,4.975,6.2,Pulsator Wash,700,No,Grey,Graphite Grey,No
+75,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+76,Whirlpool,27490.0,4.1,360 BW PRO-H 9.5 GRAPHITE 10YMW,Fully,Top,5.0,9.5,Hexa Bloom Impeller Wash,740,Yes,Grey,Graphite,No
+77,ONIDA,5990.0,4.3,W90G,Washer,,4.975,9.0,Pulsator,780,No,"White, Green",Green,Yes
+78,LG,33990.0,4.4,FHM1208ZDL.ALSQEIL,Fully,Front,5.0,8.0,Tumble,1200,Yes,Silver,Silver,Yes
+79,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+80,LG,23489.0,4.5,T80SJSF1Z,Fully,Top,5.0,8.0,Pulsator,650,No,Silver,Middle Free Silver,No
+81,SAMSUNG,13290.0,4.4,WT85R4000LL/TL,Semi,Top,5.0,8.5,Pulsator,1350,No,"White, Grey",Light Grey,No
+82,Whirlpool,23990.0,4.1,360 BW PRO INV H 7.5 GRAPHITE,Fully,Top,5.0,7.5,Impellar,740,Yes,Grey,Graphite,Yes
+83,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+84,IFB,30999.0,4.3,ELENA ZXS,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,No
+85,BOSCH,35990.0,4.4,WAJ2426PIN,Fully,Front,5.0,8.0,Tumble Wash,1200,Yes,Silver,Silver,No
+86,IFB,36999.0,4.3,Senator WXS,Fully,Front,5.0,8.0,Tumble Wash,1400,Yes,Silver,Silver,Yes
+87,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+88,Sansui,7490.0,4.3,JSD70S-2020L,Semi,Top,5.0,7.0,Pulsator,1300,No,"Red, White",Red,No
+89,MarQ By Flipkart,10990.0,4.3,MQSA10C5G,Semi,Top,5.0,10.0,Pulsator,1350,No,"White, Grey","White, Grey",Yes
+90,MarQ By Flipkart,9290.0,4.3,MQSA85H5B,Semi,Top,5.0,8.5,Pulsator,1400,No,"White, Blue","White, Blue",Yes
+91,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+92,Whirlpool,16740.0,4.3,WM ROYAL PLUS 6.5 (H) GREY 5YMW,Fully,Top,5.0,6.5,Agitator,740,Yes,Grey,Grey,No
+93,LG,8999.0,4.3,P6001RG,Semi,Top,4.975,6.0,Pulsator,1350,No,"Black, White",Dark Grey,No
+94,Sansui,8990.0,4.4,JSD85S-2022L,Semi,Top,5.0,8.5,Pulsator,1400,No,"Red, White","White, Red",No
+95,LG,41990.0,4.5,FHT1409ZWL,Fully,Front,5.0,9.0,Tumble,1400,Yes,Silver,Silver,No
+96,SAMSUNG,8940.0,4.4,WT60R2000LL/TL,Semi,Top,5.0,6.0,Pulsator,680,No,"White, Grey, Purple",VIOLET,No
+97,iFFALCON,18490.0,3.9,FWF80-G123061A03,Fully,Front,4.975,8.0,Pulsator,1200,Yes,White,White,No
+98,MOTOROLA,21490.0,4.2,105TLIWBM5DG,Fully,Top,5.0,10.5,Pulsator,700,No,Grey,Dark Grey,No
+99,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+100,IFB,29749.0,4.4,ELENA ZX,Fully,Front,5.0,6.5,Tumble,1000,Yes,White,White,No
+101,MarQ By Flipkart,28490.0,4.3,MQFLDG10_1,Fully,Front,4.975,10.2,Pulsator Wash,1500,Yes,Silver,Silver,No
+102,MarQ By Flipkart,18490.0,4.4,MQTLBG10,Fully,Top,4.975,10.2,Pulsator Wash,700,No,Grey,Grey,Yes
+104,Midea,19490.0,4.3,MWMFL070GBFS,Fully,Front,4.975,7.0,Pulsator,1100,Yes,Grey,Silver,No
+105,LG,41990.0,4.5,FHT1409ZWL,Fully,Front,5.0,9.0,Tumble,1400,Yes,Silver,Silver,No
+106,Godrej,17490.0,4.6,WTEON AL CLH 70 5.0 ROGR,Fully,Top,5.0,7.0,Pulsator,665,Yes,Grey,Royal Grey,No
+107,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+108,MOTOROLA,16990.0,4.2,80TLHCM5DG,Fully,Top,5.0,8.0,Pulsator,700,Yes,Grey,Dark Grey,No
+109,Godrej,14490.0,4.2,WTEON 650 AD 5.0 ROGR,Fully,Top,5.0,6.5,Pulsator,670,No,Grey,Royal Grey,Yes
+110,MarQ By Flipkart,10290.0,4.3,MQSA90H5GB,Semi,Top,5.0,9.0,Pulsator Wash,1400,No,"White, Blue",White & Blue,Yes
+111,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+112,IFB,29990.0,4.3,Serena Aqua Sx LDT 7.0 KG,Fully,Front,4.975,7.0,Tumble Wash,1000,Yes,Silver,"Silver, Chrome",Yes
+113,MOTOROLA,12490.0,4.2,60TLCM5DG,Fully,Top,5.0,6.0,Pulsator,700,No,Grey,Dark Grey,No
+114,IFB,33290.0,4.3,SERENA ZXS,Fully,Front,5.0,7.0,Tumble,1000,Yes,Silver,Silver,No
+115,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+116,IFB,23590.0,4.4,Diva Plus VX,Fully,Front,5.0,6.0,Tumble,800,Yes,White,White,No
+117,LG,37490.0,4.4,FHT1408ANL,Fully,Front,5.0,8.0,Tumble,1400,Yes,Silver,Silver,Yes
+118,Thomson,14499.0,4.4,TTL7501,Fully,Top,4.975,7.5,Pulsator,720,No,Grey,Grey,Yes
+119,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+120,Whirlpool,10390.0,4.4,SUPERB ATOM 70S Silver Grey Dazzle (5YR),Semi,Top,5.0,7.0,Impellar,1400,No,"Black, Grey",Silver Grey Dazzle,No
+121,BOSCH,27990.0,4.3,WLJ2006EIN,Fully,Front,5.0,6.5,Tumble,1000,Yes,White,White,No
+122,IFB,41299.0,4.4,Executive Plus VX ID,Fully,Front,5.0,8.5,Tumble Wash,1400,Yes,White,White,Yes
+123,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+124,MarQ By Flipkart,12690.0,4.3,MQTLD65W,Fully,Top,4.975,6.5,Pulsator Wash,700,No,Grey,Light Grey,Yes
+125,Midea,18490.0,4.3,MWMFL070HEF,Fully,Front,4.975,7.0,Tumble Wash,1000,Yes,White,White,No
+126,SAMSUNG,37499.0,4.4,WW80T504DAB/TL,Fully,Front,5.0,8.0,Tumble Wash,1400,No,Black,Black Caviar,No
+127,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+128,SAMSUNG,12400.0,4.3,WT70M3200HB/TL,Semi,Top,5.0,7.0,Pulsator,1300,No,"White, Blue, Grey",Light Gray,No
+129,MOTOROLA,31490.0,4.1,80FLIWBM5DG,Fully,Front,5.0,8.0,Pulsator Wash,1200,Yes,Grey,Dark Grey,No
+130,LG,27499.0,4.5,T80SJBK1Z,Fully,Top,5.0,8.0,Pulsator,780,No,Black,Black Knight,Yes
+131,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+132,SAMSUNG,37490.0,4.4,WD70M4443JW/TL,Washer,Dryer,4.975,7.0,Tumble,1400,No,White,White,Yes
+133,LG,30990.0,4.4,FHM1207ZDL.ALSQEIL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+134,SAMSUNG,11099.0,4.4,WT70M3000HP/TL,Semi,Top,5.0,7.0,Pulsator,1300,No,"Red, White, Grey",Light Gray,No
+135,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+136,BOSCH,28990.0,4.4,WLJ2026DIN,Fully,Front,5.0,6.5,Tumble Wash,1000,Yes,Grey,Dark Grey,No
+137,Whirlpool,14849.0,3.9,Whitemagic Classic 6.5 Kg GenX Fully Automatic Top Load Washing Machine,Fully,Top,5.0,6.5,Impeller Wash,1450,Yes,Grey,Grey,No
+138,LG,14690.0,4.5,P8035SRMZ,Semi,Top,5.0,8.0,Pulsator,1350,No,Red,Burgundy,No
+139,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+140,MarQ By Flipkart,13990.0,4.3,MQFA75J5LG,Fully,Top,5.0,7.5,Pulsator,700,No,Grey,Light Grey,No
+141,MOTOROLA,33990.0,4.1,105FLIWBM5DG,Fully,Front,5.0,10.5,Pulsator Wash,1400,Yes,Grey,Dark Grey,No
+142,SAMSUNG,32490.0,4.4,WW70T502NAN/TL,Fully,Front,5.0,7.0,Pulsator,1200,No,"Black, Grey",Inox,No
+143,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+144,Whirlpool,10399.0,4.4,Ace 7.2 Supreme Plus (Coral Red) (5YR),Semi,Top,4.975,7.2,Impeller Wash,1450,No,"Red, White",Coral Red,No
+145,Whirlpool,21740.0,4.2,SW PRO H 7.5 Shiny Grey (EC)10YMW,Fully,Top,5.0,7.5,Agipellar,740,Yes,Grey,Shiny Grey,No
+146,SAMSUNG,30990.0,4.4,WW70T502NTW/TL,Fully,Front,5.0,7.0,Pulsator,1200,No,White,White,No
+147,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+148,Haier,10999.0,4.3,HTW70-186S,Semi,Top,4.975,7.0,Agitator,1300,No,"Black, White",Grey,Yes
+149,BOSCH,24990.0,4.1,WLJ2006OIN,Fully,Front,5.0,6.0,Tumble Wash,1000,Yes,White,White,No
+150,Midea,17990.0,4.3,MWMFL060HEF,Fully,Front,4.975,6.0,Tumble Wash,1000,Yes,White,White,No
+151,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+152,Voltas Beko,8975.0,4.3,WTT70 ALIM,Semi,Top,5.0,7.0,Pulsator,1350,No,Maroon,Burgundy,Yes
+153,Hafele,17990.0,4.4,Marina 6010W,Fully,Front,4.975,6.0,Tumble,1000,Yes,White,White,No
+154,Galanz,20990.0,4.0,XQG80-F814VE,Fully,Front,4.975,8.0,Tumble,1400,Yes,Silver,Silver,No
+155,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+156,MarQ By Flipkart,9790.0,4.3,MQSA90H5M,Semi,Top,5.0,9.0,Pulsator Wash,1400,No,"White, Grey",White & Grey,Yes
+157,MarQ By Flipkart,18990.0,4.3,MQFL60D5S,Fully,Front,5.0,6.0,Tumble Wash,1200,Yes,Silver,Silver,Yes
+158,Sansui,13990.0,4.2,SITL72DW,Fully,Top,4.975,7.2,Pulsator Wash,700,No,Grey,Light Grey,Yes
+159,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+161,MOTOROLA,38990.0,4.1,105WDIWBMDG,Washer,Dryer,4.975,10.5,Pulsator Wash,1400,Yes,Grey,Dark Grey,No
+162,LG,40890.0,4.5,FHT1409ZWS,Fully,Front,5.0,9.0,Tumble,1400,Yes,Grey,STAINLESS SILVER,No
+163,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+164,TCL,23990.0,4.4,TWF80-G123061A03,Fully,Front,4.975,8.0,Pulsator,1200,Yes,White,White,Yes
+165,SAMSUNG,22990.0,3.9,WA70N4261SS/TL,Fully,Top,5.0,7.0,Pulsator,700,No,Silver,Silver,Yes
+166,BOSCH,30490.0,4.5,WAJ2416EIN,Fully,Front,5.0,7.0,Tumble,1200,Yes,White,White,No
+167,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+168,SAMSUNG,24700.0,4.4,WA10M5120SG/TL,Fully,Top,4.975,10.0,Wobble Pulsator Wash,700,No,Grey,Grey,No
+169,Whirlpool,24740.0,4.3,360 BW PRO (540) H 7.5 GRAPHITE 10YMW,Fully,Top,5.0,7.5,Impellar,740,Yes,Grey,Graphite,No
+170,LG,28490.0,4.5,FHT1006ZNW.ABWQEIL,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,Yes
+171,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+172,SAMSUNG,27000.0,4.4,WA90T5260BY/TL,Fully,Top,5.0,9.0,Pulsator,700,No,Grey,Lavender Grey,No
+173,SAMSUNG,31470.0,3.3,WA10T5260BV/TL,Fully,Top,5.0,10.0,Pulsator,770,No,Black,Black Caviar,No
+174,LG,32990.0,4.5,T10SJSS1Z,Fully,Top,5.0,10.0,Pulsator,780,No,Silver,Stainless Silver,No
+175,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+176,CANDY,7590.0,4.2,CTT65187W,Semi,Top,4.975,6.5,Cross Pulsator,1300,No,"White, Blue",White,Yes
+177,IFB,67490.0,5.0,Executive ZXS,Washer,Dryer,5.0,8.5,Tumble,1400,Yes,"Black, Silver",Silver,No
+178,SAMSUNG,36520.0,4.4,WW70T502DAX/TL,Fully,Front,5.0,7.0,Tumble Wash,1200,No,Grey,Inox,No
+179,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+180,SAMSUNG,14990.0,4.3,WA65A4022NS/TL,Fully,Top,4.975,6.5,Pulsator,680,No,Grey,Imperial Silver,No
+181,LG,23990.0,4.4,T80SPSF2Z,Fully,Top,5.0,8.0,Pulsator,780,No,Silver,Middle Free Silver,Yes
+182,Whirlpool,14740.0,4.3,ACE XL 8.5 GREY DAZZLE (10YR),Semi,Top,5.0,8.5,Impellar,1400,No,Grey,GREY DAZZLE,No
+183,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+184,Whirlpool,13099.0,4.4,ACE 8.0 TRB DRY WINE DAZZLE(5YR),Semi,Top,5.0,8.0,Impellar,1450,No,Maroon,Wine Dazzle,No
+185,MOTOROLA,23490.0,4.2,70FLIAM5W,Fully,Front,5.0,7.0,Tumble Wash,1400,Yes,White,White,No
+186,Godrej,13690.0,4.2,WTEON 600 AD 5.0 ROGR,Fully,Top,5.0,6.0,Pulsator,670,No,Grey,Royal Grey,Yes
+187,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+188,Panasonic,21490.0,4.3,NA-F80LF1HRB,Fully,Top,5.0,8.0,Pulastor,680,No,Grey,Grey,No
+189,SAMSUNG,32490.0,4.4,WW70T4020CX/TL,Fully,Front,5.0,7.0,Pulsator,1200,No,Grey,Inox,No
+190,Sansui,7790.0,4.3,SISA65A5R,Semi,Top,5.0,6.5,Pulsator,1300,No,"White, Maroon","White, Burgundy",No
+191,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+192,SAMSUNG,21190.0,4.4,WW60M206LMW/TL,Fully,Front,4.975,6.0,Tumble Wash,1000,Yes,White,White,No
+193,BOSCH,26950.0,4.5,WLJ2026SIN,Fully,Front,4.975,6.0,Pulsator,1000,No,"Black, Silver",Silver,No
+194,Godrej,15290.0,4.5,WS EDGE NX 1020 CPBR,Semi,Top,4.975,10.2,Pulsator Wash,1450,No,"Gold, White",Rose Gold,Yes
+195,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+196,SAMSUNG,14100.0,4.3,WA65A4002GS,Fully,Top,4.975,6.5,Pulsator,680,No,Silver,Silver,No
+197,IFB,19290.0,4.3,TL-RDS/RDSS 6.5 kg Aqua,Fully,Top,5.0,6.5,Triadic Pulsator Wash,720,No,Silver,Silver,No
+198,Voltas Beko,11790.0,4.4,WTT85DBLT,Semi,Top,5.0,8.5,Pulsator,1300,No,"White, Blue",Sky Blue,No
+199,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+200,Whirlpool,18371.0,4.1,Stainwash Deep Clean (SC) 7.5 Grey 10YMW,Fully,Top,5.0,7.5,Agipellar,740,No,Grey,Grey,No
+201,IFB,37000.0,3.5,senator WSS steam,Fully,Front,5.0,8.0,Agitator,1400,Yes,Grey,Grey,No
+202,MOTOROLA,16490.0,4.2,75TLHCM5DG,Fully,Top,5.0,7.5,Pulsator,700,Yes,Grey,Dark Grey,No
+203,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+204,LG,21185.0,4.3,T70SJSF1Z,Fully,Top,5.0,7.0,Pulsator,740,No,Silver,Middle Free Silver,Yes
+205,SAMSUNG,11690.0,4.6,WT70M3200HL/TL,Semi,Top,5.0,7.0,Pulsator,1300,No,"White, Grey, Purple",Light Grey,No
+206,SAMSUNG,13990.0,4.4,WT85R4200RR/TL,Semi,Top,5.0,8.5,Pulsator,1350,No,"Red, Grey",Light Grey,Yes
+207,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+208,TCL,16490.0,3.5,TWA85-F307GMG,Fully,Top,4.975,8.5,Pulsator,800,No,Grey,Grey,Yes
+209,MarQ By Flipkart,5790.0,4.2,MQSW75C5GN,Washer,,4.975,7.5,Combi Pulsator Wash,1350,No,"White, Green","White, Green",No
+210,SAMSUNG,27490.0,4.4,WW65R20GLSS/TL,Fully,Front,5.0,6.5,Pulsator,1000,Yes,Silver,DA Silver,No
+211,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+212,Whirlpool,17240.0,4.2,Stainwash Ultra (N) 6.5 GREY 10 YMW,Fully,Top,5.0,6.5,Spa Wash with 3D Scrub Technology Wash,740,Yes,Grey,Full Body Grey,No
+213,Whirlpool,12799.0,4.4,ACE 8.0 SUP SOAK (CORAL PURPLE)(5 YR),Semi,Top,4.975,8.0,Impeller Wash,1400,No,Purple,Coral Purple,No
+214,SAMSUNG,37990.0,4.0,WW80T504DAN/TL,Fully,Front,5.0,8.0,Tumble Wash,1400,No,Grey,Inox,No
+215,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+216,Whirlpool,11290.0,4.4,Ace 7.5 sup soak (coral purple) (5 yr),Semi,Top,4.975,7.5,Impeller Wash,1400,No,Purple,Coral Purple,No
+217,SAMSUNG,18990.0,4.4,WA75A4022FS/TL,Fully,Top,4.975,7.5,Pulsator,680,No,Silver,Imperial Silver,No
+218,Whirlpool,29990.0,4.1,Fresh Care 8212,Fully,Front,4.975,8.0,Tumble Wash,1200,No,White,White,No
+219,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+220,Whirlpool,13588.0,4.4,ACE 8.5 TRB DRY PURPLE DAZZLE (5YR),Semi,Top,5.0,8.5,Impellar,1450,No,Purple,Purple Dazzle,No
+221,Godrej,16990.0,4.2,WTEON ALR C 75 5.0 ROGR,Fully,Top,5.0,7.5,Pulsator,665,No,Grey,Royal Grey,Yes
+222,MOTOROLA,14990.0,4.2,65TLHCM5DG,Fully,Top,5.0,6.5,Pulsator,700,Yes,Grey,Dark Grey,No
+223,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+224,IFB,26090.0,4.2,NEODIVA-VX,Fully,Front,5.0,6.0,Tumble,800,Yes,White,White,No
+225,SAMSUNG,44000.0,4.2,WW90T604DLN/TL,Fully,Front,5.0,9.0,Tumble Wash,1400,No,Grey,Inox,No
+226,Haier,14760.0,5.0,HTW95-178,Semi,Top,4.975,9.5,Pulsator,1300,No,Multicolor,Blue Floral,No
+227,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+228,LG,24299.0,4.4,T70SJBK1Z,Fully,Top,5.0,7.0,Pulsator,780,No,Black,Black Knight,Yes
+229,Godrej,9290.0,4.3,WS AXIS 7.0 WNRD PN2 T,Semi,Top,4.975,7.0,Pulsator,1440,No,"Red, White",Wine Red,No
+230,Whirlpool,18679.0,4.3,Stainwash Deep Clean SC 10Y Grey,Fully,Top,5.0,7.5,Pulsator,740,No,Grey,Grey,No
+231,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+232,Midea,16990.0,4.2,MA200W80/G-IN,Fully,Top,5.0,8.0,Pulsator,680,No,Grey,Dark Grey,Yes
+233,BOSCH,19200.0,4.3,WOE704W1IN,Fully,Top,4.975,7.0,Pulsator,680,No,"White, Grey",White,No
+234,BOSCH,36990.0,4.5,WAT2846WIN,Fully,Front,4.975,8.0,Tumble Wash,1400,No,White,White,No
+235,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+236,LG,37990.0,4.5,FHT1207ZWS,Fully,Front,5.0,7.0,Tumble,1200,Yes,Grey,Stainless Silver,No
+237,SAMSUNG,55000.0,2.6,WD80T604DBX/TL,Washer,Dryer,4.975,8.0,Tumble Wash,1400,No,Grey,Inox,No
+238,Godrej,14590.0,3.0,WS EDGE 8.5 TB3 M,Semi,Top,4.975,8.5,Pulsator,1440,No,"Red, White",Wine,No
+239,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+240,MarQ By Flipkart,14990.0,4.0,MQFLDG60,Fully,Front,4.975,6.0,Pulsator Wash,1000,Yes,White,White,No
+241,LG,21490.0,4.2,T70SPSF2Z,Fully,Top,5.0,7.0,Pulsator,650,No,Silver,Middle Free Sliver,No
+242,LG,37990.0,4.5,FHT1207ZWL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Sliver,No
+243,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+244,LG,18799.0,4.3,T65SPSF2Z,Fully,Top,5.0,6.5,Pulsator,780,No,Silver,Middle Free Silver,Yes
+245,IFB,30000.0,4.0,TL-SDG 9.5 Kg Aqua,Fully,Top,5.0,9.5,Triadic Pulsator Wash,720,No,Grey,Graphite Grey,Yes
+246,SAMSUNG,38900.0,4.3,WW80J42G0BX/TL,Fully,Front,5.0,8.0,Tumble,1200,No,Grey,Inox,No
+247,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+248,Whirlpool,9990.0,4.4,Superb Atom 62I - Dark Grey (5YR),Semi,Top,4.975,6.2,Impeller Wash,1450,No,Grey,Dark Grey,No
+249,Whirlpool,29990.0,4.1,Fresh Care 8212,Fully,Front,4.975,8.0,Tumble Wash,1200,No,White,White,No
+250,Godrej,15690.0,3.5,WS EDGE DIGI 85 5.0 PB2 M GPGR,Semi,Top,5.0,8.5,Pulsator,1450,Yes,"Black, White",Graphite Grey,No
+251,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+252,Haier,15420.0,4.3,HWM70-707NZP,Fully,Top,4.975,7.0,Tumble Wash,1000,No,"Grey, Maroon",Maroon,No
+253,Panasonic,25490.0,4.8,NA-F80A5HRB,Fully,Top,4.975,8.0,Active Foam Wash,700,No,"White, Grey",Light Grey,No
+254,Whirlpool,13645.0,4.4,ACE 8.0 TRB DRY PURPLE DAZZLE,Semi,Top,5.0,8.0,Impellar,1450,No,Purple,PURPLE DAZZLE,No
+255,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+256,Galanz,20890.0,4.0,XQG70-F712DE,Fully,Front,4.975,7.0,Tumble,1200,Yes,Silver,Silver,No
+257,Galanz,20990.0,4.0,XQG70-F712DE,Fully,Front,4.975,7.0,Tumble,1200,Yes,White,White,No
+258,Haier,28490.0,4.9,HW70-IM12826TNZP,Fully,Front,4.975,7.0,Tumble Wash,1200,No,Grey,Titanium Grey,Yes
+259,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+260,SAMSUNG,12690.0,4.4,WT75M3200HL/TL,Semi,Top,4.975,7.5,Pulsator Wash,740,No,"Purple, White, Grey",Light Grey,No
+261,LG,20990.0,4.2,T70SPSF2Z,Fully,Top,5.0,7.0,Pulsator,780,No,Silver,Middle Free Silver,No
+262,Haier,16335.0,4.2,HWM75-707NZP,Fully,Top,4.975,7.5,Storm Pulsator Wash,700,No,Silver,Silver Grey,No
+263,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+264,LG,44990.0,4.4,THD12STB,Fully,Top,4.975,12.0,Pulsator,780,Yes,Black,BLACK STEEL,Yes
+265,IFB,35990.0,4.4,Elite WX,Fully,Front,5.0,7.5,Tumble Wash,1200,Yes,White,White,Yes
+266,LG,24449.0,4.4,T70SJFS1Z,Fully,Top,5.0,7.0,Pulsator,780,No,Silver,Free Silver,Yes
+267,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+268,SAMSUNG,20500.0,5.0,WA65N4261FF/TL,Fully,Top,5.0,6.5,Pulsator,700,No,Purple,Sparkling Plum,Yes
+269,Voltas Beko,10890.0,4.2,WTT85GT,Semi,Top,5.0,8.5,Pulsator,1300,No,"White, Grey",Grey,No
+270,Haier,15420.0,4.3,HWM70-707NZP,Fully,Top,4.975,7.0,Tumble Wash,1000,No,"Grey, Maroon",Maroon,No
+271,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+272,Godrej,15290.0,4.3,WTA EON 650 CI,Fully,Top,4.975,6.5,Pulsator Wash,700,No,Red,Autumn Red,No
+273,Whirlpool,15490.0,4.3,Ace XL 9 GRAPHITE GREY(5YR)-E,Semi,Top,5.0,9.0,Impeller,1400,No,Grey,Graphite grey,No
+274,SAMSUNG,13290.0,4.4,WA62M4100HY/TL 01,Fully,Top,4.975,6.2,Center Jet Pulsator Wash,700,No,Grey,"Sparkling Grey, Imperial Silver",Yes
+275,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+276,MOTOROLA,35590.0,4.1,80WDIWBMDG,Washer,Dryer,4.975,8.0,Pulsator Wash,1200,Yes,Grey,Dark Grey,No
+277,LG,28590.0,4.6,T80SJSS1Z,Fully,Top,4.975,8.0,Pulsator,780,No,Grey,Stainless Steel-VCM,Yes
+278,Whirlpool,16690.0,4.4,ACE XL 9.5 Royal Purple (5YR),Semi,Top,4.975,9.5,3D Turbo Impeller Wash,1400,No,"Purple, White",Royal Purple,No
+279,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+280,Whirlpool,9990.0,4.4,Superb Atom 62I - Dark Grey (5YR),Semi,Top,4.975,6.2,Impeller Wash,1450,No,Grey,Dark Grey,No
+281,Godrej,11290.0,4.2,WS EDGE CLS 7.5 PN2 M ROPL,Semi,Top,4.975,7.5,Pulsator,1400,No,"White, Purple",Royal Purple,No
+282,LG,35999.0,3.6,FHT1207ZNL,Fully,Front,5.0,7.0,Tumble,1000,Yes,Silver,Silver,Yes
+283,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+284,IFB,29990.0,4.4,EVA ZXS,Fully,Front,5.0,6.0,Tumble,1000,Yes,Silver,Sliver,No
+285,Godrej,22490.0,4.2,WF Eon 700 PAE,Fully,Front,4.975,7.0,Tumble Wash,800,Yes,White,White,No
+286,Whirlpool,10930.0,4.4,Ace 7.0 Supreme Plus (Coral Red) (5YR),Semi,Top,4.975,7.0,Impeller Wash,1400,No,Red,Coral Red,No
+287,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+288,BOSCH,36890.0,4.3,WAJ2846WIN,Fully,Front,4.975,8.0,Pulsator,1400,Yes,White,White,No
+289,SAMSUNG,12690.0,4.4,WT75M3200HL/TL,Semi,Top,4.975,7.5,Pulsator Wash,740,No,"Purple, White, Grey",Light Grey,No
+290,MOTOROLA,19990.0,4.2,80TLIWBM5DG,Fully,Top,5.0,8.0,Pulsator,700,No,Grey,Dark Grey,No
+291,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+292,SAMSUNG,24990.0,4.4,WW60R20GLMW/TL,Fully,Front,4.975,6.0,Tumble,1000,Yes,White,White,No
+293,BOSCH,30999.0,5.0,WAJ2426WIN,Fully,Front,4.975,7.0,Pulsator,1200,Yes,White,White,No
+294,Haier,8990.0,3.8,HTW65-1187BO,Semi,Top,4.975,6.5,Normal Wash,1300,No,White,Burgundy,No
+295,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+296,LG,29399.0,3.7,T90SJSS1Z,Fully,Top,4.975,9.0,Pulsator,800,No,Silver,Stainless Steel-VCM,No
+297,LG,29490.0,4.5,T90SJSS1Z,Fully,Top,5.0,9.0,Pulsator,780,No,Grey,Stainless Silver,Yes
+299,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+300,LG,14890.0,4.4,P7535SMMZ,Semi,Top,5.0,7.5,Pulsator,1350,No,"Pink, White",Mauve,Yes
+301,LG,67790.0,4.7,FHD1057STB,Washer,Dryer,4.975,10.5,Tumble,1400,Yes,Black,Black Steel,Yes
+302,Haier,11990.0,4.3,HTW80-1128BT,Semi,Top,4.975,8.0,Agitator,1300,No,"White, Maroon",Burgundy,Yes
+303,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+304,SAMSUNG,25990.0,4.3,WW65R20GLSW/TL,Fully,Front,5.0,6.5,Tumble,1000,Yes,White,White,Yes
+305,LG,13149.0,4.5,P7010RRAY,Semi,Top,4.0,7.0,Pulsator,1350,No,"White, Maroon",Burgundy,No
+306,LG,12640.0,3.8,P7020NGAZ,Semi,Top,5.0,7.0,Normal Pulsator Wash,1350,No,"Grey, White",Dark Gray,No
+307,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+308,Midea,14490.0,4.2,MA200W70/G-IN,Fully,Top,5.0,7.0,Pulsator,680,No,Grey,Dark Grey,Yes
+309,IFB,28690.0,4.4,EVA ZX,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,No
+310,LG,24449.0,4.4,T70SJFS1Z,Fully,Top,5.0,7.0,Pulsator,780,No,Silver,Free Silver,Yes
+311,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+312,IFB,26090.0,4.2,NEODIVA-VX,Fully,Front,5.0,6.0,Tumble,800,Yes,White,White,No
+313,SAMSUNG,13290.0,4.4,WA62M4100HY/TL 01,Fully,Top,4.975,6.2,Center Jet Pulsator Wash,700,No,Grey,"Sparkling Grey, Imperial Silver",Yes
+314,Galanz,37990.0,4.0,XQG100-DT614VE,Washer,Dryer,4.975,10.0,Tumble,1400,Yes,Silver,Silver,Yes
+315,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+316,Voltas Beko,5470.0,4.0,WST75BBRT,Washer,,4.975,7.5,PULSE,800,No,White,WHITE,No
+317,Voltas Beko,5490.0,4.0,WST75BBRT,Washer,,4.975,7.5,Pulsator,780,No,"Maroon, White",Burgundy,No
+318,Whirlpool,13240.0,4.3,WM ROYAL 6.0 GREY 5YMW,Fully,Top,5.0,6.0,Agipellar,740,No,Grey,Grey,No
+319,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+320,ONIDA,5990.0,4.3,W70G,Washer,,4.975,7.0,Pulsator,780,No,"White, Green",Green,No
+321,LG,37990.0,3.5,FHT1208ZNL,Fully,Front,5.0,8.0,TUMBLE WASH,1200,Yes,Silver,SILVER,No
+322,Haier,14239.0,4.3,HWM65-707NZP,Fully,Top,4.975,6.5,Deep Plate Pulsator Wash,700,No,Silver,Silver Grey,No
+323,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+324,ONIDA,10990.0,4.2,SMARTCARE 80SCTR,Semi,Top,4.975,8.0,Pulsator Wash,1450,No,Red,Lava Red,Yes
+325,Panasonic,31279.0,3.8,NA-127MB3L01,Fully,Front,5.0,7.0,Agitator,1200,Yes,Silver,Silver,No
+326,TCL,21990.0,4.4,TWF70-G123061A03,Fully,Front,4.975,7.0,Pulsator,1200,Yes,White,White,Yes
+327,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+328,Godrej,13490.0,4.2,WS Edge Pro 900 ES LISP,Semi,Top,4.975,9.0,Pulsator,1400,No,"White, Purple",Lilac Sprinkle,No
+329,Lloyd,18990.0,4.0,LWMT70GI1,Fully,Top,5.0,7.0,Pulsator,680,No,Grey,Dark Grey,No
+330,Haier,37999.0,4.3,HW75-BD12756NZP,Fully,Front,4.975,7.5,Tumble,1200,Yes,Gold,Golden,Yes
+331,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+332,Panasonic,25490.0,4.8,NA-F80A5HRB,Fully,Top,4.975,8.0,Active Foam Wash,700,No,"White, Grey",Light Grey,No
+333,LG,28519.0,4.5,FHT1006ZNW,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,No
+334,Voltas Beko,10890.0,4.2,WTT85GT,Semi,Top,5.0,8.5,Pulsator,1300,No,"White, Grey",Grey,No
+335,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+336,Godrej,13490.0,4.2,WS Edge Pro 900 ES LISP,Semi,Top,4.975,9.0,Pulsator,1400,No,"White, Purple",Lilac Sprinkle,No
+337,Haier,13990.0,4.3,HWM 65 707 GNZP,Fully,Top,4.975,6.5,Pulsator,740,No,Gold,Champaign Gold,No
+338,Midea,21990.0,4.4,MWMTL0105C02,Fully,Top,4.975,10.5,Tumble,750,No,Grey,Grey,Yes
+339,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+341,SAMSUNG,31100.0,4.5,WW66R22EK0S/TL,Fully,Front,5.0,6.5,Tumble,1200,No,Silver,Silver,Yes
+342,Haier,10999.0,4.3,HTW70-186S,Semi,Top,4.975,7.0,Agitator,1300,No,"Black, White",Grey,Yes
+343,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+344,IFB,39967.0,4.4,Senator Smart Touch SX,Fully,Front,4.975,8.0,Pulsator Wash,1400,No,Silver,Silver,Yes
+345,SAMSUNG,35000.0,4.1,WA11J5751SP/TL,Fully,Top,5.0,11.0,Pulsator,700,No,Grey,Silver,Yes
+346,Haier,37999.0,4.3,HW75-BD12756NZP,Fully,Front,4.975,7.5,Tumble,1200,Yes,Gold,Golden,Yes
+347,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+348,BOSCH,18290.0,4.4,WOE704W0IN,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,680,No,White,White,Yes
+349,ONIDA,10990.0,4.2,SMARTCARE 80SCTR,Semi,Top,4.975,8.0,Pulsator Wash,1450,No,Red,Lava Red,Yes
+350,LG,13890.0,3.4,P7520NBAZ,Semi,Top,5.0,7.5,Pulsator,1350,No,"Blue, White",Dark Blue,Yes
+351,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+352,LG,28519.0,4.5,FHT1006ZNW,Fully,Front,5.0,6.0,Tumble,1000,Yes,White,White,No
+353,Whirlpool,14490.0,4.4,Ace XL 9 Graphite Grey (5YR),Semi,Top,4.975,9.0,3D Turbo Impeller Wash,1400,No,Grey,Graphite Grey,No
+354,BOSCH,32659.0,3.8,WAJ2006TIN,Fully,Front,3.0,7.0,Tumble Wash,1000,Yes,Grey,Grey,No
+355,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+356,IFB,27390.0,4.2,NEODIVA-SX,Fully,Front,5.0,6.0,Tumble,800,Yes,Silver,Silver,No
+357,SAMSUNG,27300.0,4.4,WA75M4400HV/TL,Fully,Top,4.975,7.5,STS Pulsator Wash,680,No,Black,"Sparkling Black Caviar, Black Stainless",Yes
+358,IFB,49990.0,4.4,Senator Smart Touch SX 8514,Fully,Front,5.0,8.5,Tumble,1400,No,Silver,Silver,No
+359,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+360,LG,42990.0,4.3,THD11STB,Fully,Top,4.975,11.0,Pulsator,780,Yes,Black,Black Steel,Yes
+361,Lloyd,30800.0,3.6,LWMF80SX1,Fully,Front,4.975,8.0,Tumble,1400,Yes,Silver,Silver,No
+363,LG,52390.0,4.2,F4J8JSP2S,Fully,Front,4.975,10.5,Tumble,1400,Yes,Grey,Stainless steel silver,No
+364,LG,17100.0,4.4,T7288NDDL,Fully,Top,4.975,6.2,Punch + 3 Pulsator Wash,740,No,White,Blue White,No
+365,Voltas Beko,12490.0,4.4,WTT85DBLG,Semi,Top,5.0,8.5,Pulsator,1300,No,Blue,Blue,No
+366,ONIDA,5980.0,4.3,Liliput70-W70W,Washer,,4.975,7.0,Pulsator Wash,780,No,"White, Maroon",Lava Red,No
+367,Midea,13190.0,4.2,MA100W70/G-IN,Fully,Top,5.0,7.0,Pulsator,680,No,Grey,Dark Grey,Yes
+368,Galanz,25490.0,4.0,XQG90-T514VE,Fully,Front,4.975,9.0,Tumble,1400,Yes,White,White,Yes
+369,Whirlpool,14790.0,4.0,ACE XL 9.0 CORAL RED (5YR) (30194),Semi,Top,5.0,9.0,Pulsator,1400,No,"White, Maroon",Coral Red,No
+370,BOSCH,36889.0,3.9,WAJ2426GIN,Fully,Front,5.0,8.0,Tumble Wash,1200,Yes,Grey,Grey,No
+371,MarQ By Flipkart,16490.0,4.3,MQTLBG80,Fully,Top,4.975,8.0,Pulsator Wash,700,No,Grey,Grey,Yes
+372,Galanz,20990.0,4.0,XQG70-F712DE,Fully,Front,4.975,7.0,Tumble,1200,Yes,White,White,No
+373,Galanz,20890.0,4.0,XQG70-F712DE,Fully,Front,4.975,7.0,Tumble,1200,Yes,Silver,Silver,No
+374,Haier,13490.0,4.0,HTW90-1159,Semi,Top,4.975,9.0,Dual Color Vortex Pulsator Wash,1300,No,"White, Blue",White,No
+376,Panasonic,12879.0,4.2,NA-W80H2ARB,Semi,Top,4.975,8.0,Double Action Pulsator Wash,1300,No,Blue,Blue,No
+377,Voltas Beko,11880.0,3.4,WTT80DBRG,Semi,Top,5.0,8.0,Special Pulsator,1450,No,Red,BURGUNDY,Yes
+378,Whirlpool,12000.0,4.4,Ace 7.5 Sup Soak (Coral Red) (5 yr),Semi,Top,5.0,7.5,Impeller Wash,1450,No,Red,Coral Red,No
+379,Galanz,24990.0,4.0,XQG90-T514VE,Fully,Front,4.975,9.0,Tumble,1400,Yes,Silver,Silver,Yes
+380,Haier,14490.0,4.1,HTW90-1159FL,Semi,Top,4.975,9.0,Pulsator,1300,No,"White, Pink",Pink Floral,No
+381,SAMSUNG,12780.0,4.4,WT80R4000RG/TL,Semi,Top,5.0,8.0,Pulsator,1350,No,"White, Grey",Light Grey,Yes
+382,Whirlpool,24990.0,4.4,Fresh Care 6112,Fully,Front,4.975,6.0,Tumble,1200,No,White,White,No
+383,Voltas Beko,11990.0,3.6,WTT85DGRT,Semi,Top,5.0,8.5,Special Pulsator,1300,No,"White, Grey",Grey,No
+384,Whirlpool,10990.0,4.4,Superb Atom 70S,Semi,Top,4.975,7.0,Impellar Wash,1450,No,"White, Purple",Purple,No
+385,SAMSUNG,12780.0,4.4,WT80R4000RG/TL,Semi,Top,5.0,8.0,Pulsator,1350,No,"White, Grey",Light Grey,Yes
+386,Whirlpool,24990.0,4.4,Fresh Care 6112,Fully,Front,4.975,6.0,Tumble,1200,No,White,White,No
+387,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+388,Voltas Beko,11990.0,3.6,WTT85DGRT,Semi,Top,5.0,8.5,Special Pulsator,1300,No,"White, Grey",Grey,No
+389,SAMSUNG,20970.0,4.4,WA65N4260FF/TL,Fully,Top,4.975,6.5,Automatic Wash,700,No,Purple,Plum,No
+390,LG,39990.0,4.3,FHT1207ZNS,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,STAINLESS SILVER,Yes
+391,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+392,Whirlpool,23390.0,4.4,360 degree BLOOMWASH PRO 7.5 10YMW,Fully,Top,4.975,7.5,Hexa Bloom Impeller Wash,740,No,Grey,Graphite,No
+393,BOSCH,34700.0,3.3,WOA126X1IN,Fully,Top,4.975,12.0,Pulsator,680,No,Silver,Silver Inox,No
+394,Godrej,22490.0,4.2,WF Eon 700 PAE,Fully,Front,4.975,7.0,Tumble Wash,800,Yes,White,White,No
+395,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+396,DMR,5499.0,3.8,Mini Washing Machine with Steel Dryer Basket Semi AutomaticDMR 46-1218,Washer,Dryer,4.975,4.6,Pulsator,300,No,Blue,Blue,No
+397,Godrej,18490.0,4.2,WT EON Allure 650 PANMP,Fully,Top,4.975,6.5,Aquajet Pulsator Wash,700,No,Blue,Indigo Blue,No
+398,BOSCH,20069.0,3.5,WOE704Y2IN,Fully,Top,4.975,7.0,Pulsator,680,No,"Grey, Silver",Grey,No
+399,LG,26990.0,4.4,FHM1065ZDL.ALSQEIL,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,Yes
+400,IFB,33990.0,4.4,Elite Aqua SX,Fully,Front,4.975,7.0,Tumble Wash,1200,Yes,Silver,Silver,No
+401,LG,25190.0,4.5,T8077NEDLK,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,780,No,Black,Black Knight / Black,No
+402,Whirlpool,18490.0,4.3,WHITEMAGIC ELITE 7.5 WINE 10YMW,Fully,Top,5.0,7.5,Agipellar Wash,740,No,Maroon,wine (L3),Yes
+403,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+404,IFB,27390.0,4.2,NEODIVA-SX,Fully,Front,5.0,6.0,Tumble,800,Yes,Silver,Silver,No
+405,Midea,36990.0,4.3,MWMFL085COM,Washer,Dryer,4.975,8.5,Tumble,1400,Yes,White,White,Yes
+406,Voltas Beko,9990.0,3.6,WTT70DBRT,Semi,Top,5.0,7.0,Special Pulsator,1450,No,"Red, White","WHITE, BURGUNDY",Yes
+407,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+408,Panasonic,23990.0,4.1,NA-127XB1W01,Fully,Front,4.975,7.0,Tumble Wash,1200,Yes,White,White,No
+409,IFB,32199.0,4.3,Senorita WX,Fully,Front,5.0,6.5,Tumble Wash,1000,Yes,White,White,Yes
+410,TOSHIBA,25499.0,5.0,AW-DJ900D-IND,Fully,Top,5.0,8.0,Pulsator,700,No,Grey,Premium Silver,Yes
+411,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+412,LG,25190.0,4.4,T8081NEDLJ,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,740,No,Silver,Middle Free Silver,No
+413,SAMSUNG,15900.0,4.2,WA65A4022FS,Fully,Top,4.975,6.5,Pulsator,680,No,Silver,Silver,No
+414,DMR,4899.0,2.0,D M R 30-1208 Black,Washer,Dryer,4.975,3.0,Pulsator,1350,No,Black,Black,No
+415,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+416,Voltas Beko,13690.0,4.2,WTL62UPGB,Fully,Top,4.975,6.2,Pulsator,700,No,Grey,Grey,No
+417,Haier,14999.0,3.9,HTW90-1128,Semi,Top,4.975,9.0,Dual Color Vortex Pulsator Wash,1300,No,"White, Blue",White,No
+418,Croma,7490.0,4.2,CRAW2221,Semi,Top,4.975,6.5,Pulsator,1300,No,White,White,No
+419,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+420,ONIDA,9779.0,4.3,SMARTCARE 72,Semi,Top,4.975,7.2,Hexafin Pulsator Wash,1350,No,"White, Blue",Blue,No
+421,IFB,39967.0,4.4,Senator Smart Touch SX,Fully,Front,4.975,8.0,Pulsator Wash,1400,No,Silver,Silver,Yes
+422,Panasonic,19499.0,4.3,NA-F70BH9MRB,Fully,Top,5.0,7.0,Active Foam Wash,702,Yes,Silver,Middle Free Silver,No
+423,LG,26990.0,4.4,FHM1065ZDL.ALSQEIL,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,Yes
+424,Panasonic,19539.0,4.3,NA-F70BH9MRB,Fully,Top,5.0,7.0,Pulastor,702,Yes,Grey,Silver,No
+425,BOSCH,18179.0,4.4,WOE702W0IN,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,680,No,White,White,Yes
+426,SAMSUNG,9790.0,4.3,WT65R2000HR/TL,Semi,Top,5.0,6.5,Pulsator,1300,No,"White, Grey",Light Grey,Yes
+427,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+428,BOSCH,59499.0,3.8,WVG3046SIN,Washer,Dryer,5.0,8.0,Tumble Wash,1500,Yes,White,White,No
+429,BOSCH,59990.0,3.0,WVG3046SIN,Washer,Dryer,4.975,8.0,Pulsator,1500,Yes,Silver,Silver,No
+430,Godrej,13300.0,4.4,800 PDS/WS 800 PDS,Semi,Top,4.975,8.0,Pulsator,1200,No,"Brown, White",Lilac Sprinkle,No
+431,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+432,Godrej,11490.0,4.4,WS EDGEPRO 850 ES Wn Rd,Semi,Top,4.975,8.5,Pulsator Wash,1450,No,"White, Maroon",Wine Red,Yes
+433,Panasonic,19499.0,4.3,NA-F70BH9MRB,Fully,Top,5.0,7.0,Active Foam Wash,702,Yes,Silver,Middle Free Silver,No
+434,Panasonic,19539.0,4.3,NA-F70BH9MRB,Fully,Top,5.0,7.0,Pulastor,702,Yes,Grey,Silver,No
+435,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+436,TOSHIBA,20499.0,5.0,AW-J800A-IND(SG),Fully,Top,5.0,7.0,Pulsator,700,No,Grey,Silver,Yes
+437,LG,25990.0,4.3,T70SJSS1Z,Fully,Top,5.0,7.0,Pulsator,780,No,Grey,Stainless silver,Yes
+438,Whirlpool,12449.0,4.4,ACE 7.5 TRB DRY WINE DAZZLE,Semi,Top,5.0,7.5,Impellar,1450,No,Maroon,Wine Dazzle,No
+439,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+440,Whirlpool,15999.0,4.3,WhiteMagic Classic 652 SD,Fully,Top,4.975,6.5,Agipeller Wash,740,No,Maroon,Wine,No
+441,TOSHIBA,11699.0,5.0,VH-J85W-IND,Semi,Top,4.975,7.5,Pulsator,1250,No,"Black, White, Gold",White,No
+442,SAMSUNG,59900.0,3.9,WW90K54E0UX/TL,Fully,Front,4.975,9.0,Tumble Wash,1400,Yes,Grey,Grey,No
+443,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
+444,Whirlpool,10509.0,4.3,Ace 7.2 Supreme,Semi,Top,4.975,7.2,Impeller Wash,1400,No,Grey,Grey,No
+445,Lloyd,11790.0,4.2,LWMS85RDB,Semi,Top,4.975,8.5,Pulsator,1300,No,"Red, White",Red,No
+446,Panasonic,12879.0,4.2,NA-W80H2ARB,Semi,Top,4.975,8.0,Double Action Pulsator Wash,1300,No,Blue,Blue,No
+447,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+448,LG,63869.0,4.5,FHD1057SWS,Washer,Dryer,4.975,10.5,Tumble,1400,Yes,Silver,Stainless Silver,Yes
+449,Voltas Beko,11999.0,3.8,WTT80DBLT,Semi,Top,5.0,8.0,Pulsator,1300,No,White,"White, Blue",No
+450,LG,25190.0,4.4,T8081NEDLJ,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,740,No,Silver,Middle Free Silver,No
+451,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+452,LG,25190.0,4.5,T8077NEDLK,Fully,Top,4.975,7.0,Punch + 3 Pulsator Wash,780,No,Black,Black Knight / Black,No
+453,IFB,32199.0,4.3,Senorita WX,Fully,Front,5.0,6.5,Tumble Wash,1000,Yes,White,White,Yes
+454,SAMSUNG,9790.0,4.3,WT65R2000HR/TL,Semi,Top,5.0,6.5,Pulsator,1300,No,"White, Grey",Light Grey,Yes
+455,LG,15490.0,4.5,P9040RGAZ,Semi,Top,5.0,9.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+456,Haier,14599.0,3.5,"HWM62-707BKNZP, Titanium Grey",Fully,Top,4.975,6.2,Pulsator,800,No,Grey,Titanium Grey,No
+457,Whirlpool,14490.0,4.4,ACE 8.2 SUPER SOAK (TULIP PINK) (5 YR),Semi,Top,4.975,8.2,Impeller Wash,1400,No,Pink,Tulip Pink,No
+458,Whirlpool,15999.0,4.3,WhiteMagic Classic 652 SD,Fully,Top,4.975,6.5,Agipeller Wash,740,No,Maroon,Wine,No
+459,LG,10990.0,4.4,P7010RRAA,Semi,Top,4.975,7.0,Pulsator,1350,No,"Maroon, White",Burgundy,Yes
+460,Haier,14990.0,4.0,HTW90-1128BT,Semi,Top,4.975,9.0,Pulsator,1000,No,"White, Maroon",Burgundy,Yes
+461,SAMSUNG,20990.0,3.9,WA65M4010HL/TL,Fully,Top,4.975,6.5,STS Pulsator Wash,680,No,Blue,"Sparkling Blue, Starflower Blue",Yes
+462,MarQ By Flipkart,19990.0,4.0,MQFLDG70,Fully,Front,4.975,7.0,Pulsator Wash,1200,Yes,White,White,No
+463,LG,15990.0,4.5,P1045SGAZ,Semi,Top,5.0,10.0,Pulsator,1350,No,"Grey, White",Dark Grey,Yes
+464,TCL,24990.0,4.4,TWF80-G123061A03S,Fully,Front,4.975,8.0,Pulsator,1200,Yes,Silver,Silver,Yes
+465,Panasonic,12990.0,4.3,NA-F62B3HRB,Fully,Top,4.975,6.2,Foam Wash,720,No,Grey,Grey,Yes
+466,BOSCH,22300.0,3.6,WOE702D2IN,Fully,Top,4.975,7.0,Pulsator,680,No,Grey,Dark Grey,No
+467,LG,63990.0,4.1,THD18STB,Fully,Top,4.975,18.0,Pulsator,780,Yes,Black,Black Stainless silver,Yes
+468,TCL,15990.0,3.7,TWA85-F307GM,Fully,Top,4.975,8.5,Pulsator,800,No,"White, Grey",White,Yes
+469,LG,19000.0,4.4,T7569NDDLH,Fully,Top,4.975,6.5,Pulsator Wash,780,No,Silver,Middle Free Silver,Yes
+470,Lloyd,10450.0,4.0,LWMS70BE1,Semi,Top,4.975,7.0,Pulsator,600,No,"White, Blue",Blue,No
+471,LG,26990.0,4.4,FHM1065ZDL.ALSQEIL,Fully,Front,5.0,6.5,Tumble,1000,Yes,Silver,Silver,Yes
+472,Godrej,15790.0,4.2,WT EON ALLURE EC 7.5 ROGR CNA,Fully,Top,4.975,7.5,Aquajet Pulsator,800,No,Grey,Grey,Yes
+473,SAMSUNG,32900.0,3.5,WW66R22EK0X/TL,Fully,Front,5.0,6.5,Tumble,1200,No,Grey,Grey,Yes
+474,TOSHIBA,11699.0,5.0,VH-J85W-IND,Semi,Top,4.975,7.5,Pulsator,1250,No,"Black, White, Gold",White,No
+475,LG,13490.0,4.5,P8030SRAZ,Semi,Top,5.0,8.0,Pulsator,800,No,"White, Maroon",Burgundy,No
+476,Mitashi,15890.0,4.2,MiFAWM62v20,Fully,Top,4.975,6.2,"Normal, Wool, Underwear, Jeans, Duvet, Eco, Gentle and Quick Wash",550,No,Grey,Grey,No
+477,SAMSUNG,31100.0,4.5,WW66R22EK0S/TL,Fully,Front,5.0,6.5,Tumble,1200,No,Silver,Silver,Yes
+478,ONIDA,14599.0,3.3,T70FGD,Fully,Top,5.0,7.0,Pulsator,750,No,Grey,Grey,No
+479,LG,29990.0,4.4,FHM1207ADL,Fully,Front,5.0,7.0,Tumble,1200,Yes,Silver,Silver,Yes
